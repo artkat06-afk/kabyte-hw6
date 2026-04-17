@@ -1,0 +1,8 @@
+boto3
+pandas
+pandera
+pydantic
+pyarrow
+dvc
+python-dotenv
+requests
